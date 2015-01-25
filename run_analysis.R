@@ -56,7 +56,11 @@ df <- xMerged[, colsWanted]
 
 tDf <- data.table(cbind(Subject = sMerged, Activity = activities, df))
 
-tidy <- aggregate(tDf, by=list(Subject=tDf$Subject,Activity=tDf$Activity), FUN=mean)
+meanDf <- aggregate(tDf, by=list(Subject=tDf$Subject,Activity=tDf$Activity), FUN=mean)
 
 # finally, write to file tidy.txt
-write.table(tidy, "tidy.txt", sep="\t")
+write.table(tDf, "tidy.txt", sep="\t")
+write.table(meanDf, "mean.txt", sep="\t")
+
+
+
