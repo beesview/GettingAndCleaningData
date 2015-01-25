@@ -14,58 +14,58 @@ Please refer to README and features.txt files in the original dataset to learn m
 
 #Variable Names in Tidy Data Set
 
-Subject
-Activity
-TimeBodyAccMeanX
-TimeBodyAccMeanY
-TimeBodyAccMeanZ
-TimeGraviTimeyAccMeanX
-TimeGraviTimeyAccMeanY
-TimeGraviTimeyAccMeanZ
-TimeBodyAccJerkMeanX
-TimeBodyAccJerkMeanY
-TimeBodyAccJerkMeanZ
-TimeBodyGyroMeanX
-TimeBodyGyroMeanY
-TimeBodyGyroMeanZ
-TimeBodyGyroJerkMeanX
-TimeBodyGyroJerkMeanY
-TimeBodyGyroJerkMeanZ
-TimeBodyAccMagMean
-TimeGraviTimeyAccMagMean
-TimeBodyAccJerkMagMean
-TimeBodyGyroMagMean
-TimeBodyGyroJerkMagMean
-FrqBodyAccMeanX
-FrqBodyAccMeanY
-FrqBodyAccMeanZ
-FrqBodyAccMeanFreqX
-FrqBodyAccMeanFreqY
-FrqBodyAccMeanFreqZ
-FrqBodyAccJerkMeanX
-FrqBodyAccJerkMeanY
-FrqBodyAccJerkMeanZ
-FrqBodyAccJerkMeanFreqX
-FrqBodyAccJerkMeanFreqY
-FrqBodyAccJerkMeanFreqZ
-FrqBodyGyroMeanX
-FrqBodyGyroMeanY
-FrqBodyGyroMeanZ
-FrqBodyGyroMeanFreqX
-FrqBodyGyroMeanFreqY
-FrqBodyGyroMeanFreqZ
-FrqBodyAccMagMean
-FrqBodyAccMagMeanFreq
-FrqBodyAccJerkMagMean
-FrqBodyAccJerkMagMeanFreq
-FrqBodyGyroMagMean
-FrqBodyGyroMagMeanFreq
-FrqBodyGyroJerkMagMean
-FrqBodyGyroJerkMagMeanFreq
-angleTimeBodyAccMean,graviTimey
-angleTimeBodyAccJerkMean,graviTimeyMean
-angleTimeBodyGyroMean,graviTimeyMean
-angleTimeBodyGyroJerkMean,graviTimeyMean
-angleX,graviTimeyMean
-angleY,graviTimeyMean
-angleZ,graviTimeyMean
+1.  Subject
+2.  Activity
+3.  TimeBodyAccMeanX
+4.  TimeBodyAccMeanY
+5.  TimeBodyAccMeanZ
+6.  TimeGraviTimeyAccMeanX
+7.  TimeGraviTimeyAccMeanY
+8.  TimeGraviTimeyAccMeanZ
+9.  TimeBodyAccJerkMeanX
+10. TimeBodyAccJerkMeanY
+11. TimeBodyAccJerkMeanZ
+12. TimeBodyGyroMeanX
+13. TimeBodyGyroMeanY
+14. TimeBodyGyroMeanZ
+15. TimeBodyGyroJerkMeanX
+16. TimeBodyGyroJerkMeanY
+17. TimeBodyGyroJerkMeanZ
+18. TimeBodyAccMagMean
+19. TimeGraviTimeyAccMagMean
+20. TimeBodyAccJerkMagMean
+21. TimeBodyGyroMagMean
+22. TimeBodyGyroJerkMagMean
+23. FrqBodyAccMeanX
+24. FrqBodyAccMeanY
+25. FrqBodyAccMeanZ
+26. FrqBodyAccMeanFreqX
+27. FrqBodyAccMeanFreqY
+28. FrqBodyAccMeanFreqZ
+29. FrqBodyAccJerkMeanX
+30. FrqBodyAccJerkMeanY
+31. FrqBodyAccJerkMeanZ
+32. FrqBodyAccJerkMeanFreqX
+33. FrqBodyAccJerkMeanFreqY
+34. FrqBodyAccJerkMeanFreqZ
+35. FrqBodyGyroMeanX
+36. FrqBodyGyroMeanY
+37. FrqBodyGyroMeanZ
+38. FrqBodyGyroMeanFreqX
+39. FrqBodyGyroMeanFreqY
+40. FrqBodyGyroMeanFreqZ
+41. FrqBodyAccMagMean
+42. FrqBodyAccMagMeanFreq
+43. FrqBodyAccJerkMagMean
+44. FrqBodyAccJerkMagMeanFreq
+45. FrqBodyGyroMagMean
+46. FrqBodyGyroMagMeanFreq
+47. FrqBodyGyroJerkMagMean
+48. FrqBodyGyroJerkMagMeanFreq
+49. angleTimeBodyAccMean,graviTimey
+50. angleTimeBodyAccJerkMean,graviTimeyMean
+51. angleTimeBodyGyroMean,graviTimeyMean
+52. angleTimeBodyGyroJerkMean,graviTimeyMean
+53. angleX,graviTimeyMean
+54. angleY,graviTimeyMean
+55. angleZ,graviTimeyMean
